@@ -1,0 +1,501 @@
+Candidate_ID,Name,Department,Position,Interview_Status,Offer_Status,Joining_Status
+C001,Candidate_1,Operations,Finance Analyst,Pending,No Offer,Not Joined
+C002,Candidate_2,HR,Recruiter,Pending,No Offer,Pending
+C003,Candidate_3,Operations,Operations Associate,Rejected,No Offer,Not Joined
+C004,Candidate_4,Marketing,Marketing Executive,Selected,Offered,Joined
+C005,Candidate_5,IT,Finance Analyst,Pending,Pending,Joined
+C006,Candidate_6,Operations,Recruiter,Selected,Pending,Pending
+C007,Candidate_7,HR,Marketing Executive,Pending,Pending,Pending
+C008,Candidate_8,Marketing,Recruiter,Rejected,Offered,Pending
+C009,Candidate_9,Finance,Recruiter,Selected,No Offer,Joined
+C010,Candidate_10,HR,Marketing Executive,Rejected,No Offer,Not Joined
+C011,Candidate_11,HR,Data Analyst,Pending,Pending,Pending
+C012,Candidate_12,IT,Data Analyst,Selected,Offered,Joined
+C013,Candidate_13,Finance,Marketing Executive,Pending,No Offer,Pending
+C014,Candidate_14,HR,Operations Associate,Rejected,Offered,Not Joined
+C015,Candidate_15,IT,Marketing Executive,Rejected,Offered,Pending
+C016,Candidate_16,IT,Marketing Executive,Rejected,Offered,Joined
+C017,Candidate_17,HR,Marketing Executive,Rejected,Offered,Joined
+C018,Candidate_18,HR,Finance Analyst,Pending,Offered,Not Joined
+C019,Candidate_19,Marketing,Data Analyst,Pending,No Offer,Pending
+C020,Candidate_20,Marketing,Data Analyst,Selected,No Offer,Not Joined
+C021,Candidate_21,HR,Data Analyst,Pending,Pending,Not Joined
+C022,Candidate_22,IT,Operations Associate,Selected,Pending,Not Joined
+C023,Candidate_23,Operations,Data Analyst,Pending,No Offer,Joined
+C024,Candidate_24,Marketing,Recruiter,Selected,Pending,Pending
+C025,Candidate_25,HR,Recruiter,Rejected,Pending,Joined
+C026,Candidate_26,IT,Operations Associate,Pending,Offered,Pending
+C027,Candidate_27,IT,Finance Analyst,Rejected,No Offer,Pending
+C028,Candidate_28,IT,Operations Associate,Selected,Pending,Not Joined
+C029,Candidate_29,HR,Finance Analyst,Selected,No Offer,Joined
+C030,Candidate_30,Marketing,Finance Analyst,Selected,Pending,Joined
+C031,Candidate_31,IT,Recruiter,Rejected,No Offer,Not Joined
+C032,Candidate_32,Finance,Recruiter,Rejected,Pending,Joined
+C033,Candidate_33,Marketing,Operations Associate,Selected,Offered,Not Joined
+C034,Candidate_34,HR,Finance Analyst,Selected,Pending,Pending
+C035,Candidate_35,HR,Finance Analyst,Rejected,No Offer,Joined
+C036,Candidate_36,Operations,Marketing Executive,Rejected,Pending,Not Joined
+C037,Candidate_37,HR,Finance Analyst,Pending,Pending,Joined
+C038,Candidate_38,IT,Data Analyst,Pending,Offered,Not Joined
+C039,Candidate_39,Finance,Recruiter,Selected,Pending,Joined
+C040,Candidate_40,IT,Finance Analyst,Pending,Pending,Not Joined
+C041,Candidate_41,HR,Data Analyst,Pending,No Offer,Pending
+C042,Candidate_42,HR,Marketing Executive,Pending,No Offer,Pending
+C043,Candidate_43,Marketing,Marketing Executive,Pending,Pending,Pending
+C044,Candidate_44,HR,Data Analyst,Rejected,Offered,Not Joined
+C045,Candidate_45,IT,Operations Associate,Selected,Pending,Pending
+C046,Candidate_46,Finance,Data Analyst,Pending,No Offer,Pending
+C047,Candidate_47,Operations,Operations Associate,Pending,No Offer,Not Joined
+C048,Candidate_48,Operations,Finance Analyst,Selected,Offered,Not Joined
+C049,Candidate_49,Operations,Recruiter,Selected,Pending,Not Joined
+C050,Candidate_50,Marketing,Operations Associate,Pending,No Offer,Not Joined
+C051,Candidate_51,Finance,Finance Analyst,Selected,Offered,Not Joined
+C052,Candidate_52,IT,Data Analyst,Selected,No Offer,Not Joined
+C053,Candidate_53,Finance,Marketing Executive,Rejected,Pending,Joined
+C054,Candidate_54,IT,Operations Associate,Pending,No Offer,Joined
+C055,Candidate_55,IT,Recruiter,Selected,Pending,Pending
+C056,Candidate_56,HR,Marketing Executive,Pending,Pending,Pending
+C057,Candidate_57,Operations,Marketing Executive,Pending,Offered,Pending
+C058,Candidate_58,IT,Recruiter,Pending,Pending,Joined
+C059,Candidate_59,Finance,Recruiter,Pending,Pending,Not Joined
+C060,Candidate_60,Marketing,Finance Analyst,Pending,No Offer,Pending
+C061,Candidate_61,Operations,Data Analyst,Rejected,No Offer,Joined
+C062,Candidate_62,Operations,Recruiter,Pending,No Offer,Joined
+C063,Candidate_63,Marketing,Data Analyst,Selected,No Offer,Pending
+C064,Candidate_64,Operations,Data Analyst,Pending,No Offer,Pending
+C065,Candidate_65,Operations,Data Analyst,Pending,Offered,Joined
+C066,Candidate_66,Operations,Finance Analyst,Rejected,Offered,Pending
+C067,Candidate_67,Marketing,Data Analyst,Rejected,Pending,Joined
+C068,Candidate_68,Marketing,Marketing Executive,Rejected,Pending,Not Joined
+C069,Candidate_69,Operations,Marketing Executive,Selected,Pending,Pending
+C070,Candidate_70,IT,Marketing Executive,Pending,Offered,Pending
+C071,Candidate_71,Operations,Data Analyst,Selected,Pending,Joined
+C072,Candidate_72,Operations,Operations Associate,Pending,Offered,Not Joined
+C073,Candidate_73,HR,Finance Analyst,Pending,No Offer,Pending
+C074,Candidate_74,Marketing,Finance Analyst,Selected,No Offer,Joined
+C075,Candidate_75,Finance,Finance Analyst,Selected,Offered,Not Joined
+C076,Candidate_76,Operations,Data Analyst,Rejected,No Offer,Pending
+C077,Candidate_77,Finance,Finance Analyst,Selected,Offered,Pending
+C078,Candidate_78,Operations,Data Analyst,Pending,Offered,Joined
+C079,Candidate_79,IT,Finance Analyst,Pending,Pending,Not Joined
+C080,Candidate_80,Operations,Recruiter,Pending,Pending,Pending
+C081,Candidate_81,IT,Operations Associate,Rejected,Pending,Not Joined
+C082,Candidate_82,Operations,Finance Analyst,Selected,No Offer,Joined
+C083,Candidate_83,Marketing,Data Analyst,Selected,Offered,Not Joined
+C084,Candidate_84,Marketing,Finance Analyst,Selected,No Offer,Not Joined
+C085,Candidate_85,Finance,Operations Associate,Pending,Offered,Pending
+C086,Candidate_86,IT,Operations Associate,Pending,Offered,Joined
+C087,Candidate_87,Marketing,Marketing Executive,Pending,Pending,Not Joined
+C088,Candidate_88,HR,Data Analyst,Pending,Offered,Not Joined
+C089,Candidate_89,Operations,Marketing Executive,Selected,No Offer,Joined
+C090,Candidate_90,Operations,Operations Associate,Rejected,Pending,Not Joined
+C091,Candidate_91,Finance,Recruiter,Pending,Offered,Not Joined
+C092,Candidate_92,Operations,Marketing Executive,Pending,No Offer,Not Joined
+C093,Candidate_93,HR,Data Analyst,Selected,Offered,Not Joined
+C094,Candidate_94,Marketing,Data Analyst,Rejected,Offered,Joined
+C095,Candidate_95,HR,Recruiter,Selected,Offered,Joined
+C096,Candidate_96,Finance,Finance Analyst,Rejected,Offered,Pending
+C097,Candidate_97,Finance,Data Analyst,Rejected,Offered,Pending
+C098,Candidate_98,IT,Recruiter,Rejected,No Offer,Not Joined
+C099,Candidate_99,Finance,Finance Analyst,Pending,Offered,Not Joined
+C100,Candidate_100,Marketing,Finance Analyst,Rejected,Offered,Not Joined
+C101,Candidate_101,Finance,Recruiter,Pending,No Offer,Not Joined
+C102,Candidate_102,HR,Finance Analyst,Selected,Offered,Joined
+C103,Candidate_103,Operations,Marketing Executive,Rejected,Offered,Not Joined
+C104,Candidate_104,Finance,Finance Analyst,Selected,No Offer,Pending
+C105,Candidate_105,IT,Operations Associate,Pending,Pending,Joined
+C106,Candidate_106,HR,Recruiter,Pending,Pending,Pending
+C107,Candidate_107,Finance,Finance Analyst,Selected,Pending,Joined
+C108,Candidate_108,HR,Marketing Executive,Rejected,Pending,Pending
+C109,Candidate_109,HR,Operations Associate,Rejected,Offered,Not Joined
+C110,Candidate_110,Finance,Operations Associate,Selected,Offered,Joined
+C111,Candidate_111,HR,Operations Associate,Selected,No Offer,Joined
+C112,Candidate_112,Operations,Data Analyst,Selected,Pending,Not Joined
+C113,Candidate_113,HR,Marketing Executive,Pending,No Offer,Pending
+C114,Candidate_114,HR,Recruiter,Selected,Pending,Pending
+C115,Candidate_115,IT,Operations Associate,Pending,Offered,Pending
+C116,Candidate_116,Finance,Data Analyst,Rejected,Offered,Joined
+C117,Candidate_117,Marketing,Finance Analyst,Rejected,Offered,Joined
+C118,Candidate_118,Finance,Finance Analyst,Selected,Offered,Pending
+C119,Candidate_119,Finance,Operations Associate,Rejected,Pending,Pending
+C120,Candidate_120,Operations,Marketing Executive,Rejected,No Offer,Joined
+C121,Candidate_121,Operations,Recruiter,Rejected,No Offer,Joined
+C122,Candidate_122,Marketing,Finance Analyst,Rejected,Pending,Joined
+C123,Candidate_123,Operations,Operations Associate,Selected,Offered,Pending
+C124,Candidate_124,Finance,Recruiter,Rejected,Offered,Not Joined
+C125,Candidate_125,Operations,Operations Associate,Selected,Pending,Pending
+C126,Candidate_126,Marketing,Data Analyst,Pending,Offered,Not Joined
+C127,Candidate_127,IT,Marketing Executive,Rejected,No Offer,Not Joined
+C128,Candidate_128,HR,Recruiter,Selected,Offered,Pending
+C129,Candidate_129,Marketing,Marketing Executive,Rejected,Offered,Not Joined
+C130,Candidate_130,Operations,Finance Analyst,Rejected,Pending,Pending
+C131,Candidate_131,Finance,Operations Associate,Rejected,No Offer,Not Joined
+C132,Candidate_132,HR,Recruiter,Selected,Pending,Not Joined
+C133,Candidate_133,HR,Recruiter,Pending,Offered,Joined
+C134,Candidate_134,HR,Finance Analyst,Pending,Offered,Not Joined
+C135,Candidate_135,Finance,Finance Analyst,Rejected,Offered,Joined
+C136,Candidate_136,Operations,Recruiter,Pending,No Offer,Not Joined
+C137,Candidate_137,HR,Marketing Executive,Selected,No Offer,Pending
+C138,Candidate_138,HR,Data Analyst,Selected,No Offer,Joined
+C139,Candidate_139,Finance,Finance Analyst,Rejected,Pending,Not Joined
+C140,Candidate_140,Marketing,Finance Analyst,Pending,Pending,Pending
+C141,Candidate_141,IT,Marketing Executive,Selected,Offered,Joined
+C142,Candidate_142,HR,Operations Associate,Pending,No Offer,Pending
+C143,Candidate_143,Operations,Data Analyst,Selected,No Offer,Joined
+C144,Candidate_144,Operations,Operations Associate,Selected,No Offer,Pending
+C145,Candidate_145,Marketing,Finance Analyst,Rejected,Pending,Pending
+C146,Candidate_146,Finance,Data Analyst,Rejected,No Offer,Pending
+C147,Candidate_147,Finance,Finance Analyst,Pending,No Offer,Joined
+C148,Candidate_148,Marketing,Operations Associate,Pending,Offered,Pending
+C149,Candidate_149,IT,Marketing Executive,Rejected,No Offer,Pending
+C150,Candidate_150,Marketing,Operations Associate,Rejected,Pending,Pending
+C151,Candidate_151,Marketing,Marketing Executive,Pending,No Offer,Pending
+C152,Candidate_152,HR,Finance Analyst,Selected,Offered,Joined
+C153,Candidate_153,HR,Data Analyst,Pending,No Offer,Pending
+C154,Candidate_154,IT,Operations Associate,Selected,No Offer,Pending
+C155,Candidate_155,IT,Operations Associate,Pending,Offered,Joined
+C156,Candidate_156,HR,Recruiter,Pending,Pending,Joined
+C157,Candidate_157,Operations,Operations Associate,Pending,Pending,Joined
+C158,Candidate_158,Operations,Marketing Executive,Pending,Offered,Not Joined
+C159,Candidate_159,Finance,Recruiter,Selected,Offered,Pending
+C160,Candidate_160,Marketing,Data Analyst,Selected,No Offer,Pending
+C161,Candidate_161,Finance,Operations Associate,Rejected,No Offer,Pending
+C162,Candidate_162,Operations,Marketing Executive,Selected,No Offer,Pending
+C163,Candidate_163,Operations,Finance Analyst,Pending,Offered,Joined
+C164,Candidate_164,IT,Operations Associate,Selected,Pending,Joined
+C165,Candidate_165,IT,Finance Analyst,Rejected,Pending,Joined
+C166,Candidate_166,Marketing,Operations Associate,Pending,No Offer,Joined
+C167,Candidate_167,Operations,Marketing Executive,Selected,Pending,Joined
+C168,Candidate_168,Marketing,Finance Analyst,Pending,Pending,Pending
+C169,Candidate_169,HR,Marketing Executive,Pending,Pending,Joined
+C170,Candidate_170,Operations,Marketing Executive,Rejected,No Offer,Joined
+C171,Candidate_171,HR,Finance Analyst,Rejected,Pending,Joined
+C172,Candidate_172,IT,Marketing Executive,Rejected,Pending,Joined
+C173,Candidate_173,IT,Operations Associate,Rejected,No Offer,Not Joined
+C174,Candidate_174,Marketing,Finance Analyst,Selected,No Offer,Joined
+C175,Candidate_175,Operations,Recruiter,Selected,Pending,Pending
+C176,Candidate_176,Marketing,Recruiter,Rejected,Pending,Pending
+C177,Candidate_177,Marketing,Operations Associate,Selected,Pending,Joined
+C178,Candidate_178,Finance,Marketing Executive,Selected,Pending,Joined
+C179,Candidate_179,HR,Finance Analyst,Rejected,No Offer,Joined
+C180,Candidate_180,HR,Marketing Executive,Rejected,Pending,Joined
+C181,Candidate_181,Finance,Finance Analyst,Rejected,Pending,Joined
+C182,Candidate_182,Marketing,Marketing Executive,Pending,Offered,Not Joined
+C183,Candidate_183,Finance,Marketing Executive,Selected,Pending,Joined
+C184,Candidate_184,Operations,Finance Analyst,Rejected,No Offer,Not Joined
+C185,Candidate_185,Finance,Marketing Executive,Rejected,Pending,Joined
+C186,Candidate_186,Operations,Marketing Executive,Pending,Offered,Not Joined
+C187,Candidate_187,IT,Data Analyst,Pending,Offered,Joined
+C188,Candidate_188,Finance,Marketing Executive,Pending,Offered,Pending
+C189,Candidate_189,HR,Operations Associate,Pending,Offered,Not Joined
+C190,Candidate_190,HR,Recruiter,Selected,No Offer,Not Joined
+C191,Candidate_191,IT,Marketing Executive,Pending,Pending,Joined
+C192,Candidate_192,Marketing,Recruiter,Selected,No Offer,Joined
+C193,Candidate_193,Marketing,Data Analyst,Rejected,Offered,Not Joined
+C194,Candidate_194,HR,Finance Analyst,Selected,No Offer,Pending
+C195,Candidate_195,Marketing,Finance Analyst,Selected,Offered,Joined
+C196,Candidate_196,Finance,Operations Associate,Selected,Offered,Joined
+C197,Candidate_197,Operations,Marketing Executive,Rejected,Offered,Joined
+C198,Candidate_198,HR,Marketing Executive,Rejected,Offered,Pending
+C199,Candidate_199,HR,Data Analyst,Selected,Offered,Pending
+C200,Candidate_200,HR,Finance Analyst,Rejected,No Offer,Not Joined
+C201,Candidate_201,Operations,Marketing Executive,Selected,No Offer,Not Joined
+C202,Candidate_202,IT,Marketing Executive,Rejected,Offered,Not Joined
+C203,Candidate_203,Marketing,Marketing Executive,Rejected,Pending,Not Joined
+C204,Candidate_204,Operations,Recruiter,Pending,Offered,Not Joined
+C205,Candidate_205,HR,Finance Analyst,Rejected,No Offer,Pending
+C206,Candidate_206,Operations,Marketing Executive,Pending,No Offer,Pending
+C207,Candidate_207,IT,Data Analyst,Rejected,Offered,Pending
+C208,Candidate_208,Operations,Marketing Executive,Rejected,Pending,Not Joined
+C209,Candidate_209,HR,Marketing Executive,Selected,Pending,Not Joined
+C210,Candidate_210,HR,Operations Associate,Pending,No Offer,Joined
+C211,Candidate_211,Finance,Operations Associate,Pending,Offered,Joined
+C212,Candidate_212,IT,Data Analyst,Selected,Offered,Not Joined
+C213,Candidate_213,Finance,Marketing Executive,Rejected,No Offer,Joined
+C214,Candidate_214,Marketing,Data Analyst,Selected,Pending,Pending
+C215,Candidate_215,Marketing,Operations Associate,Selected,Offered,Not Joined
+C216,Candidate_216,Finance,Recruiter,Pending,Offered,Not Joined
+C217,Candidate_217,Finance,Operations Associate,Rejected,No Offer,Not Joined
+C218,Candidate_218,HR,Recruiter,Pending,Pending,Not Joined
+C219,Candidate_219,Finance,Recruiter,Rejected,Pending,Joined
+C220,Candidate_220,HR,Operations Associate,Selected,Pending,Not Joined
+C221,Candidate_221,Finance,Marketing Executive,Selected,No Offer,Not Joined
+C222,Candidate_222,IT,Data Analyst,Rejected,Offered,Pending
+C223,Candidate_223,HR,Marketing Executive,Selected,No Offer,Pending
+C224,Candidate_224,HR,Operations Associate,Selected,No Offer,Not Joined
+C225,Candidate_225,IT,Data Analyst,Rejected,No Offer,Pending
+C226,Candidate_226,IT,Data Analyst,Pending,Pending,Joined
+C227,Candidate_227,Operations,Operations Associate,Selected,No Offer,Joined
+C228,Candidate_228,Finance,Data Analyst,Pending,No Offer,Joined
+C229,Candidate_229,Finance,Data Analyst,Selected,Pending,Joined
+C230,Candidate_230,Operations,Recruiter,Pending,Offered,Pending
+C231,Candidate_231,Operations,Recruiter,Pending,No Offer,Joined
+C232,Candidate_232,Operations,Data Analyst,Rejected,Offered,Pending
+C233,Candidate_233,IT,Finance Analyst,Pending,No Offer,Joined
+C234,Candidate_234,Marketing,Marketing Executive,Selected,Offered,Not Joined
+C235,Candidate_235,HR,Operations Associate,Rejected,Pending,Pending
+C236,Candidate_236,Finance,Data Analyst,Rejected,No Offer,Pending
+C237,Candidate_237,HR,Marketing Executive,Selected,No Offer,Joined
+C238,Candidate_238,IT,Finance Analyst,Pending,Offered,Pending
+C239,Candidate_239,HR,Data Analyst,Selected,Offered,Joined
+C240,Candidate_240,Finance,Operations Associate,Rejected,Pending,Joined
+C241,Candidate_241,Marketing,Recruiter,Pending,No Offer,Joined
+C242,Candidate_242,IT,Marketing Executive,Rejected,Offered,Pending
+C243,Candidate_243,HR,Marketing Executive,Selected,No Offer,Not Joined
+C244,Candidate_244,Marketing,Finance Analyst,Selected,Offered,Pending
+C245,Candidate_245,Marketing,Finance Analyst,Selected,No Offer,Pending
+C246,Candidate_246,Operations,Finance Analyst,Selected,Pending,Not Joined
+C247,Candidate_247,Finance,Data Analyst,Rejected,Offered,Not Joined
+C248,Candidate_248,Operations,Finance Analyst,Selected,Offered,Pending
+C249,Candidate_249,IT,Marketing Executive,Pending,Pending,Not Joined
+C250,Candidate_250,HR,Recruiter,Selected,Offered,Joined
+C251,Candidate_251,IT,Marketing Executive,Selected,No Offer,Not Joined
+C252,Candidate_252,Finance,Marketing Executive,Pending,No Offer,Pending
+C253,Candidate_253,Operations,Finance Analyst,Selected,Offered,Joined
+C254,Candidate_254,Marketing,Marketing Executive,Rejected,Offered,Pending
+C255,Candidate_255,Finance,Data Analyst,Selected,Offered,Joined
+C256,Candidate_256,HR,Finance Analyst,Pending,No Offer,Pending
+C257,Candidate_257,Marketing,Recruiter,Pending,Pending,Pending
+C258,Candidate_258,Marketing,Finance Analyst,Rejected,No Offer,Pending
+C259,Candidate_259,Operations,Finance Analyst,Rejected,Offered,Not Joined
+C260,Candidate_260,Operations,Data Analyst,Selected,No Offer,Not Joined
+C261,Candidate_261,IT,Recruiter,Selected,Pending,Pending
+C262,Candidate_262,HR,Finance Analyst,Pending,No Offer,Not Joined
+C263,Candidate_263,Finance,Finance Analyst,Selected,Offered,Pending
+C264,Candidate_264,Marketing,Marketing Executive,Pending,Pending,Pending
+C265,Candidate_265,HR,Operations Associate,Pending,Offered,Pending
+C266,Candidate_266,Operations,Data Analyst,Pending,No Offer,Joined
+C267,Candidate_267,IT,Data Analyst,Selected,No Offer,Not Joined
+C268,Candidate_268,Finance,Data Analyst,Selected,Pending,Joined
+C269,Candidate_269,Marketing,Recruiter,Pending,Offered,Joined
+C270,Candidate_270,Operations,Marketing Executive,Selected,Pending,Joined
+C271,Candidate_271,Marketing,Recruiter,Selected,Pending,Not Joined
+C272,Candidate_272,Operations,Marketing Executive,Rejected,Offered,Pending
+C273,Candidate_273,Operations,Recruiter,Pending,Offered,Joined
+C274,Candidate_274,Operations,Finance Analyst,Rejected,Pending,Joined
+C275,Candidate_275,HR,Recruiter,Rejected,Pending,Pending
+C276,Candidate_276,HR,Marketing Executive,Rejected,Pending,Joined
+C277,Candidate_277,Finance,Marketing Executive,Pending,No Offer,Not Joined
+C278,Candidate_278,HR,Data Analyst,Pending,Offered,Joined
+C279,Candidate_279,IT,Marketing Executive,Pending,Offered,Not Joined
+C280,Candidate_280,Operations,Marketing Executive,Rejected,Offered,Not Joined
+C281,Candidate_281,Operations,Marketing Executive,Pending,Pending,Joined
+C282,Candidate_282,Marketing,Recruiter,Selected,No Offer,Not Joined
+C283,Candidate_283,HR,Recruiter,Rejected,Pending,Pending
+C284,Candidate_284,HR,Marketing Executive,Rejected,Pending,Pending
+C285,Candidate_285,Marketing,Operations Associate,Pending,Pending,Pending
+C286,Candidate_286,IT,Finance Analyst,Pending,No Offer,Pending
+C287,Candidate_287,HR,Data Analyst,Rejected,Offered,Not Joined
+C288,Candidate_288,Operations,Recruiter,Pending,Offered,Pending
+C289,Candidate_289,Marketing,Data Analyst,Rejected,Pending,Not Joined
+C290,Candidate_290,IT,Recruiter,Pending,Pending,Joined
+C291,Candidate_291,Finance,Finance Analyst,Rejected,Pending,Pending
+C292,Candidate_292,HR,Recruiter,Pending,Offered,Pending
+C293,Candidate_293,IT,Recruiter,Pending,Offered,Joined
+C294,Candidate_294,HR,Marketing Executive,Pending,No Offer,Pending
+C295,Candidate_295,Operations,Data Analyst,Rejected,Pending,Pending
+C296,Candidate_296,HR,Marketing Executive,Selected,Pending,Not Joined
+C297,Candidate_297,Operations,Finance Analyst,Pending,Pending,Pending
+C298,Candidate_298,HR,Data Analyst,Selected,Offered,Not Joined
+C299,Candidate_299,Marketing,Recruiter,Selected,Pending,Not Joined
+C300,Candidate_300,Finance,Data Analyst,Pending,Pending,Not Joined
+C301,Candidate_301,Marketing,Operations Associate,Pending,Pending,Joined
+C302,Candidate_302,IT,Recruiter,Pending,Pending,Pending
+C303,Candidate_303,Marketing,Marketing Executive,Rejected,No Offer,Not Joined
+C304,Candidate_304,Marketing,Data Analyst,Rejected,Pending,Pending
+C305,Candidate_305,IT,Marketing Executive,Selected,Offered,Joined
+C306,Candidate_306,HR,Recruiter,Rejected,No Offer,Pending
+C307,Candidate_307,Finance,Data Analyst,Pending,No Offer,Pending
+C308,Candidate_308,HR,Data Analyst,Rejected,Pending,Joined
+C309,Candidate_309,HR,Marketing Executive,Pending,Pending,Pending
+C310,Candidate_310,Finance,Finance Analyst,Selected,Pending,Joined
+C311,Candidate_311,IT,Data Analyst,Rejected,No Offer,Pending
+C312,Candidate_312,Finance,Finance Analyst,Rejected,No Offer,Not Joined
+C313,Candidate_313,Finance,Marketing Executive,Pending,Pending,Not Joined
+C314,Candidate_314,Marketing,Marketing Executive,Selected,Pending,Pending
+C315,Candidate_315,Finance,Marketing Executive,Pending,No Offer,Not Joined
+C316,Candidate_316,IT,Data Analyst,Rejected,Pending,Pending
+C317,Candidate_317,IT,Marketing Executive,Selected,Offered,Not Joined
+C318,Candidate_318,HR,Operations Associate,Selected,Offered,Pending
+C319,Candidate_319,Finance,Recruiter,Selected,Offered,Pending
+C320,Candidate_320,IT,Recruiter,Rejected,Offered,Pending
+C321,Candidate_321,IT,Data Analyst,Rejected,No Offer,Joined
+C322,Candidate_322,Finance,Recruiter,Pending,No Offer,Pending
+C323,Candidate_323,IT,Operations Associate,Rejected,Offered,Not Joined
+C324,Candidate_324,Finance,Recruiter,Pending,No Offer,Not Joined
+C325,Candidate_325,IT,Marketing Executive,Selected,Offered,Not Joined
+C326,Candidate_326,HR,Finance Analyst,Pending,No Offer,Not Joined
+C327,Candidate_327,Operations,Recruiter,Pending,Pending,Pending
+C328,Candidate_328,Finance,Finance Analyst,Pending,Offered,Pending
+C329,Candidate_329,Marketing,Operations Associate,Rejected,Offered,Pending
+C330,Candidate_330,HR,Operations Associate,Rejected,No Offer,Not Joined
+C331,Candidate_331,Marketing,Recruiter,Selected,Pending,Not Joined
+C332,Candidate_332,Finance,Finance Analyst,Pending,Offered,Pending
+C333,Candidate_333,Finance,Recruiter,Pending,No Offer,Pending
+C334,Candidate_334,Marketing,Data Analyst,Selected,Offered,Not Joined
+C335,Candidate_335,Operations,Marketing Executive,Pending,No Offer,Joined
+C336,Candidate_336,IT,Operations Associate,Pending,Pending,Joined
+C337,Candidate_337,Operations,Recruiter,Pending,Pending,Not Joined
+C338,Candidate_338,Finance,Recruiter,Rejected,Pending,Not Joined
+C339,Candidate_339,Marketing,Data Analyst,Pending,Pending,Joined
+C340,Candidate_340,Marketing,Finance Analyst,Rejected,No Offer,Pending
+C341,Candidate_341,HR,Operations Associate,Selected,Pending,Not Joined
+C342,Candidate_342,Finance,Finance Analyst,Rejected,Pending,Pending
+C343,Candidate_343,Marketing,Recruiter,Selected,No Offer,Joined
+C344,Candidate_344,Operations,Data Analyst,Selected,Offered,Joined
+C345,Candidate_345,Operations,Marketing Executive,Pending,Offered,Joined
+C346,Candidate_346,Finance,Recruiter,Pending,No Offer,Pending
+C347,Candidate_347,HR,Data Analyst,Pending,Offered,Pending
+C348,Candidate_348,IT,Operations Associate,Pending,Offered,Not Joined
+C349,Candidate_349,IT,Recruiter,Pending,Pending,Pending
+C350,Candidate_350,Operations,Recruiter,Pending,Offered,Pending
+C351,Candidate_351,Finance,Operations Associate,Rejected,Offered,Not Joined
+C352,Candidate_352,Finance,Finance Analyst,Pending,Pending,Pending
+C353,Candidate_353,Marketing,Operations Associate,Rejected,Pending,Joined
+C354,Candidate_354,Operations,Data Analyst,Pending,Offered,Pending
+C355,Candidate_355,IT,Data Analyst,Selected,No Offer,Joined
+C356,Candidate_356,HR,Marketing Executive,Selected,Offered,Pending
+C357,Candidate_357,Finance,Marketing Executive,Rejected,No Offer,Pending
+C358,Candidate_358,Operations,Finance Analyst,Pending,Pending,Pending
+C359,Candidate_359,Marketing,Finance Analyst,Rejected,Pending,Joined
+C360,Candidate_360,HR,Operations Associate,Rejected,Offered,Joined
+C361,Candidate_361,Operations,Marketing Executive,Rejected,Offered,Joined
+C362,Candidate_362,Operations,Data Analyst,Pending,No Offer,Not Joined
+C363,Candidate_363,Marketing,Data Analyst,Selected,No Offer,Pending
+C364,Candidate_364,Operations,Marketing Executive,Rejected,Pending,Joined
+C365,Candidate_365,IT,Operations Associate,Pending,Offered,Pending
+C366,Candidate_366,Operations,Recruiter,Pending,No Offer,Joined
+C367,Candidate_367,IT,Operations Associate,Pending,Pending,Not Joined
+C368,Candidate_368,Operations,Finance Analyst,Rejected,Offered,Joined
+C369,Candidate_369,IT,Recruiter,Rejected,Offered,Not Joined
+C370,Candidate_370,Marketing,Operations Associate,Rejected,Pending,Pending
+C371,Candidate_371,HR,Finance Analyst,Selected,Offered,Joined
+C372,Candidate_372,Marketing,Marketing Executive,Rejected,No Offer,Pending
+C373,Candidate_373,HR,Recruiter,Pending,Pending,Joined
+C374,Candidate_374,Marketing,Operations Associate,Selected,Pending,Not Joined
+C375,Candidate_375,IT,Operations Associate,Selected,No Offer,Pending
+C376,Candidate_376,IT,Data Analyst,Rejected,Offered,Joined
+C377,Candidate_377,Finance,Recruiter,Rejected,Pending,Pending
+C378,Candidate_378,Marketing,Operations Associate,Rejected,No Offer,Joined
+C379,Candidate_379,Finance,Marketing Executive,Selected,No Offer,Pending
+C380,Candidate_380,Marketing,Data Analyst,Rejected,Pending,Pending
+C381,Candidate_381,Finance,Marketing Executive,Selected,Pending,Pending
+C382,Candidate_382,Finance,Data Analyst,Rejected,Pending,Not Joined
+C383,Candidate_383,Marketing,Marketing Executive,Rejected,Pending,Pending
+C384,Candidate_384,Marketing,Operations Associate,Rejected,No Offer,Joined
+C385,Candidate_385,Marketing,Marketing Executive,Pending,Offered,Pending
+C386,Candidate_386,Marketing,Marketing Executive,Pending,Pending,Not Joined
+C387,Candidate_387,IT,Finance Analyst,Selected,Offered,Pending
+C388,Candidate_388,Operations,Finance Analyst,Selected,Offered,Pending
+C389,Candidate_389,IT,Recruiter,Pending,Offered,Joined
+C390,Candidate_390,HR,Recruiter,Selected,No Offer,Not Joined
+C391,Candidate_391,Finance,Recruiter,Selected,Pending,Pending
+C392,Candidate_392,Operations,Data Analyst,Selected,No Offer,Pending
+C393,Candidate_393,HR,Recruiter,Pending,Pending,Pending
+C394,Candidate_394,HR,Recruiter,Pending,No Offer,Joined
+C395,Candidate_395,Marketing,Marketing Executive,Selected,Pending,Joined
+C396,Candidate_396,Finance,Data Analyst,Selected,No Offer,Not Joined
+C397,Candidate_397,Finance,Operations Associate,Rejected,No Offer,Joined
+C398,Candidate_398,IT,Marketing Executive,Selected,Pending,Pending
+C399,Candidate_399,Marketing,Recruiter,Selected,No Offer,Joined
+C400,Candidate_400,IT,Recruiter,Pending,Pending,Pending
+C401,Candidate_401,Operations,Recruiter,Rejected,No Offer,Not Joined
+C402,Candidate_402,Marketing,Finance Analyst,Pending,No Offer,Pending
+C403,Candidate_403,IT,Recruiter,Pending,Offered,Pending
+C404,Candidate_404,Finance,Recruiter,Selected,Offered,Pending
+C405,Candidate_405,IT,Data Analyst,Selected,Pending,Pending
+C406,Candidate_406,IT,Operations Associate,Rejected,Offered,Not Joined
+C407,Candidate_407,Marketing,Data Analyst,Pending,Pending,Joined
+C408,Candidate_408,Operations,Operations Associate,Rejected,Offered,Pending
+C409,Candidate_409,Marketing,Recruiter,Rejected,Offered,Joined
+C410,Candidate_410,Operations,Finance Analyst,Selected,Pending,Joined
+C411,Candidate_411,HR,Recruiter,Rejected,Offered,Joined
+C412,Candidate_412,Operations,Finance Analyst,Pending,Pending,Joined
+C413,Candidate_413,Finance,Data Analyst,Rejected,No Offer,Pending
+C414,Candidate_414,Operations,Marketing Executive,Pending,Pending,Pending
+C415,Candidate_415,Marketing,Recruiter,Rejected,Offered,Pending
+C416,Candidate_416,IT,Finance Analyst,Rejected,Pending,Joined
+C417,Candidate_417,IT,Marketing Executive,Selected,Pending,Pending
+C418,Candidate_418,Marketing,Marketing Executive,Rejected,Offered,Joined
+C419,Candidate_419,Operations,Marketing Executive,Selected,No Offer,Joined
+C420,Candidate_420,HR,Finance Analyst,Pending,No Offer,Not Joined
+C421,Candidate_421,Finance,Marketing Executive,Selected,No Offer,Joined
+C422,Candidate_422,IT,Operations Associate,Pending,No Offer,Not Joined
+C423,Candidate_423,Operations,Data Analyst,Selected,Offered,Joined
+C424,Candidate_424,Operations,Data Analyst,Rejected,Pending,Joined
+C425,Candidate_425,Marketing,Marketing Executive,Pending,No Offer,Pending
+C426,Candidate_426,Marketing,Finance Analyst,Pending,Offered,Pending
+C427,Candidate_427,Finance,Finance Analyst,Selected,No Offer,Joined
+C428,Candidate_428,IT,Finance Analyst,Selected,No Offer,Joined
+C429,Candidate_429,HR,Operations Associate,Selected,No Offer,Pending
+C430,Candidate_430,IT,Operations Associate,Pending,No Offer,Pending
+C431,Candidate_431,Marketing,Data Analyst,Pending,Pending,Joined
+C432,Candidate_432,Operations,Finance Analyst,Pending,Offered,Joined
+C433,Candidate_433,Operations,Data Analyst,Pending,No Offer,Pending
+C434,Candidate_434,Operations,Data Analyst,Selected,No Offer,Joined
+C435,Candidate_435,IT,Data Analyst,Pending,Pending,Not Joined
+C436,Candidate_436,Marketing,Operations Associate,Rejected,Offered,Not Joined
+C437,Candidate_437,Marketing,Finance Analyst,Pending,No Offer,Joined
+C438,Candidate_438,Operations,Operations Associate,Rejected,Offered,Pending
+C439,Candidate_439,HR,Operations Associate,Pending,No Offer,Pending
+C440,Candidate_440,Finance,Operations Associate,Rejected,No Offer,Pending
+C441,Candidate_441,Operations,Finance Analyst,Pending,No Offer,Not Joined
+C442,Candidate_442,Operations,Operations Associate,Rejected,Pending,Joined
+C443,Candidate_443,Finance,Finance Analyst,Selected,No Offer,Joined
+C444,Candidate_444,IT,Marketing Executive,Selected,No Offer,Pending
+C445,Candidate_445,Finance,Marketing Executive,Pending,Pending,Pending
+C446,Candidate_446,IT,Recruiter,Pending,No Offer,Joined
+C447,Candidate_447,HR,Marketing Executive,Rejected,Pending,Not Joined
+C448,Candidate_448,Marketing,Data Analyst,Selected,Offered,Not Joined
+C449,Candidate_449,IT,Marketing Executive,Selected,No Offer,Not Joined
+C450,Candidate_450,Finance,Recruiter,Selected,No Offer,Pending
+C451,Candidate_451,Marketing,Operations Associate,Pending,Offered,Pending
+C452,Candidate_452,Marketing,Finance Analyst,Selected,No Offer,Joined
+C453,Candidate_453,Finance,Recruiter,Selected,No Offer,Pending
+C454,Candidate_454,Operations,Finance Analyst,Rejected,Pending,Joined
+C455,Candidate_455,Operations,Finance Analyst,Pending,No Offer,Not Joined
+C456,Candidate_456,IT,Recruiter,Selected,Offered,Not Joined
+C457,Candidate_457,Marketing,Marketing Executive,Rejected,Pending,Pending
+C458,Candidate_458,Finance,Operations Associate,Rejected,No Offer,Pending
+C459,Candidate_459,Marketing,Marketing Executive,Rejected,No Offer,Not Joined
+C460,Candidate_460,IT,Recruiter,Rejected,Pending,Joined
+C461,Candidate_461,HR,Recruiter,Selected,Offered,Pending
+C462,Candidate_462,Operations,Marketing Executive,Selected,Pending,Not Joined
+C463,Candidate_463,Finance,Recruiter,Selected,Pending,Not Joined
+C464,Candidate_464,IT,Recruiter,Pending,No Offer,Pending
+C465,Candidate_465,IT,Operations Associate,Rejected,Pending,Pending
+C466,Candidate_466,HR,Operations Associate,Rejected,No Offer,Joined
+C467,Candidate_467,Operations,Marketing Executive,Rejected,Offered,Not Joined
+C468,Candidate_468,Operations,Operations Associate,Rejected,Offered,Joined
+C469,Candidate_469,Operations,Recruiter,Rejected,Pending,Joined
+C470,Candidate_470,HR,Finance Analyst,Rejected,Pending,Pending
+C471,Candidate_471,Marketing,Data Analyst,Pending,Offered,Not Joined
+C472,Candidate_472,Marketing,Marketing Executive,Rejected,Offered,Pending
+C473,Candidate_473,IT,Marketing Executive,Rejected,Offered,Not Joined
+C474,Candidate_474,IT,Finance Analyst,Selected,Offered,Not Joined
+C475,Candidate_475,IT,Marketing Executive,Rejected,No Offer,Joined
+C476,Candidate_476,HR,Data Analyst,Selected,Offered,Joined
+C477,Candidate_477,Finance,Finance Analyst,Pending,No Offer,Not Joined
+C478,Candidate_478,HR,Recruiter,Pending,Pending,Pending
+C479,Candidate_479,IT,Operations Associate,Rejected,Pending,Not Joined
+C480,Candidate_480,HR,Data Analyst,Rejected,No Offer,Joined
+C481,Candidate_481,Operations,Operations Associate,Pending,Pending,Not Joined
+C482,Candidate_482,Marketing,Recruiter,Pending,Pending,Not Joined
+C483,Candidate_483,HR,Marketing Executive,Pending,Pending,Not Joined
+C484,Candidate_484,IT,Marketing Executive,Pending,No Offer,Pending
+C485,Candidate_485,Operations,Finance Analyst,Selected,Offered,Not Joined
+C486,Candidate_486,HR,Marketing Executive,Selected,No Offer,Pending
+C487,Candidate_487,HR,Operations Associate,Rejected,No Offer,Pending
+C488,Candidate_488,Finance,Operations Associate,Selected,Offered,Pending
+C489,Candidate_489,HR,Operations Associate,Rejected,Offered,Pending
+C490,Candidate_490,Marketing,Operations Associate,Rejected,Offered,Not Joined
+C491,Candidate_491,Operations,Data Analyst,Selected,Pending,Pending
+C492,Candidate_492,Operations,Data Analyst,Selected,No Offer,Joined
+C493,Candidate_493,HR,Finance Analyst,Selected,No Offer,Pending
+C494,Candidate_494,Operations,Finance Analyst,Selected,No Offer,Joined
+C495,Candidate_495,Marketing,Operations Associate,Pending,Offered,Pending
+C496,Candidate_496,Marketing,Recruiter,Pending,Pending,Pending
+C497,Candidate_497,HR,Marketing Executive,Pending,Pending,Pending
+C498,Candidate_498,Marketing,Operations Associate,Rejected,No Offer,Pending
+C499,Candidate_499,IT,Recruiter,Rejected,No Offer,Joined
+C500,Candidate_500,Finance,Data Analyst,Rejected,No Offer,Not Joined
